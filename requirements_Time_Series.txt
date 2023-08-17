@@ -1,0 +1,10 @@
+statsmodels==0.14.0
+scipy==1.11.1
+seaborn==0.12.2
+pmdarima==2.0.3
+scikit-learn==1.0.2
+openpyxl==3.1.2
+convertdate==2.4.0
+pystan==2.19.1.1
+pymeeus==0.5.11
+prophet==1.1.4
