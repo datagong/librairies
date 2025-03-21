@@ -34,7 +34,7 @@ networkx==3.4.2
     # via scikit-image
 numba==0.61.0
     # via shap
-numpy==1.26.4
+numpy==2.0.2
     # via
     #   -r requirements.in
     #   boruta
