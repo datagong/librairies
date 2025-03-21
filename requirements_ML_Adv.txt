@@ -34,7 +34,7 @@ matplotlib==3.10.0
     # via -r requirements.in
 nbformat==5.10.4
     # via -r requirements.in
-numpy==2.2.1
+numpy==2.0.2
     # via
     #   contourpy
     #   lightgbm
@@ -71,7 +71,7 @@ rpds-py==0.22.3
     # via
     #   jsonschema
     #   referencing
-scikit-learn==1.4.2
+scikit-learn==1.6.1
     # via -r requirements.in
 scipy==1.14.1
     # via
