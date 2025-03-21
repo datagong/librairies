@@ -90,5 +90,5 @@ traitlets==5.14.3
     #   nbformat
 tzdata==2024.2
     # via pandas
-xgboost==1.7.6
+xgboost==2.1.4
     # via -r requirements.in
