@@ -56,7 +56,7 @@ packaging==24.2
     #   matplotlib
     #   scikit-image
     #   shap
-pandas==2.2.1
+pandas==2.2.2
     # via
     #   -r requirements.in
     #   shap
