@@ -24,15 +24,15 @@ lazy-loader==0.4
     # via scikit-image
 lime==0.2.0.1
     # via -r requirements.in
-llvmlite==0.44.0
+llvmlite==0.43.0
     # via numba
-matplotlib==3.8.3
+matplotlib==3.10.0
     # via
     #   -r requirements.in
     #   lime
 networkx==3.4.2
     # via scikit-image
-numba==0.61.0
+numba==0.60.0
     # via shap
 numpy==2.0.2
     # via
@@ -67,7 +67,7 @@ pillow==11.1.0
     #   scikit-image
 pyparsing==3.2.1
     # via matplotlib
-python-dateutil==2.9.0.post0
+python-dateutil==2.8.2
     # via
     #   matplotlib
     #   pandas
@@ -81,7 +81,7 @@ scikit-learn==1.6.1
     #   boruta
     #   lime
     #   shap
-scipy==1.13.0
+scipy==1.14.1
     # via
     #   -r requirements.in
     #   boruta
@@ -90,11 +90,11 @@ scipy==1.13.0
     #   scikit-learn
     #   shap
     #   xgboost
-shap==0.45.0
+shap==0.47.0
     # via -r requirements.in
 six==1.17.0
     # via python-dateutil
-slicer==0.0.7
+slicer==0.0.8
     # via shap
 threadpoolctl==3.6.0
     # via scikit-learn
