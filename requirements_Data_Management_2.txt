@@ -42,7 +42,7 @@ pytz==2025.2
     # via pandas
 scikit-learn==1.7.1
     # via -r requirements.in
-scipy==1.16.1
+scipy==1.14.0
     # via scikit-learn
 seaborn==0.13.2
     # via -r requirements.in
