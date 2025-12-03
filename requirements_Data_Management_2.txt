@@ -16,7 +16,7 @@ kiwisolver==1.4.9
     # via matplotlib
 matplotlib==3.10.5
     # via seaborn
-numpy==2.3.2
+numpy<2.0
     # via
     #   contourpy
     #   matplotlib
@@ -40,7 +40,7 @@ python-dateutil==2.9.0.post0
     #   pandas
 pytz==2025.2
     # via pandas
-scikit-learn==1.7.1
+scikit-learn<1.5
     # via -r requirements.in
 scipy==1.16.1
     # via scikit-learn
